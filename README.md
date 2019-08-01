@@ -34,7 +34,7 @@ nano ~/.config/autostart/rpi4-media-player.desktop
 
 Script the file with this code bellow:
 
-````shell
+```shell
 [Desktop Entry]
 Name=RPI4 Media Player
 Exec=python3 ~/Apps/media-player.py
