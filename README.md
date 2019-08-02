@@ -37,7 +37,7 @@ Script the file with this code bellow:
 ```shell
 [Desktop Entry]
 Name=RPI4 Media Player
-Exec=python3 ~/Apps/media-player.py
+Exec=python3 /home/pi/Apps/media-player.py
 Type=application
 ```
 
